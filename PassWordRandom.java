@@ -1,6 +1,6 @@
 /*
- * Made By: Bruno|SooxBoox
- * https://github.com/BrunoGLEM/PasswordGenerator
+ * Made By: CoffeeLover
+ * https://github.com/C0ffeeL0ver/PasswordGenerator
  */
 package passwordrandom;
 
